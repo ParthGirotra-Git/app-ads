@@ -1,0 +1,4 @@
+ironsrc.com, 658643, DIRECT
+is-ads.com, 658643, DIRECT
+google.com, pub-5347681617865310, DIRECT, f08c47fec0942fa0
+unityads.com, 6106209, DIRECT
